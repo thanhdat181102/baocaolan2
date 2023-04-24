@@ -11,5 +11,6 @@ public class batitap extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_batitap);
         //bao cao lan 2
+        //ben b da sua doi
     }
 }
